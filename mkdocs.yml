@@ -3,5 +3,5 @@ nav:
   - Home: index.md
 theme: readthedocs
 
-extra_javascript:
-  - javascripts/stuff.js
+# extra_javascript:
+#   - javascripts/stuff.js
