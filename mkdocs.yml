@@ -5,3 +5,4 @@ theme: readthedocs
 
 extra_javascript:
   - javascripts/stuff.js
+  - javascripts/doc.js
