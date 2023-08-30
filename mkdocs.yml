@@ -1,8 +1,7 @@
 site_name: Sample
 nav:
   - Home: index.md
-theme:
-  name: material
+theme: readthedocs
 
 extra_javascript:
   - javascripts/stuff.js
