@@ -1,0 +1,4 @@
+site_name: Sample
+nav:
+  - Home: index.md
+theme: readthedocs
